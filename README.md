@@ -37,6 +37,9 @@ pip install pyautogui
 ### Fourth, click the "Start Translation" button.
 <img width="284" alt="스크린샷 2024-09-02 오전 10 36 46" src="https://github.com/user-attachments/assets/3483d173-ce05-437e-8f98-82437f029c10">
 
+### Great! It’s working well!
+<img width="993" alt="스크린샷 2024-09-02 오전 10 54 01" src="https://github.com/user-attachments/assets/263edfa9-870b-4463-bcd9-f048ec4a5021">
+
 ### If you want to stop the translation, press the Stop button.
 
 <img width="224" alt="스크린샷 2024-09-02 오전 10 36 49" src="https://github.com/user-attachments/assets/f097d6d4-a207-4e98-98f0-763584dea39c">
