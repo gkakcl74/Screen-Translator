@@ -23,7 +23,6 @@ pip install pyautogui
 
 <img width="429" alt="스크린샷 2024-09-02 오전 10 33 34" src="https://github.com/user-attachments/assets/70443d98-7112-455e-bf29-f9d96352741c">
 <img width="800" alt="스크린샷 2024-09-02 오전 10 33 18" src="https://github.com/user-attachments/assets/4ed79bb6-34b5-44bd-b0ec-931a120820c7">
-![image](https://github.com/user-attachments/assets/5d32efe3-32d8-4697-ab2d-9d7f6fc8b171)
 
 ### Second, choose the language you want to translate the text in that area to.
 <img width="369" alt="스크린샷 2024-09-02 오전 10 35 49" src="https://github.com/user-attachments/assets/da530cf3-43eb-4090-9c90-80c8718bcef1">
