@@ -3,6 +3,11 @@ Program to select a specific area of the screen and translate it
 
 
 
+### Executable file for macOS
+
+https://drive.google.com/file/d/1pTpgXHzoUV3aWYeqOcJileSf-4rACaOL/view?usp=share_link
+
+
 ## You need to install the libraries before running this code.
 
 pip install pillow
