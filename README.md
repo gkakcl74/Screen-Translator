@@ -7,6 +7,9 @@ Program to select a specific area of the screen and translate it
 
 https://drive.google.com/file/d/1pTpgXHzoUV3aWYeqOcJileSf-4rACaOL/view?usp=share_link
 
+#### The file may take some time to open.
+
+
 
 ## You need to install the libraries before running this code.
 
